@@ -14,3 +14,7 @@ The Personalized Mental Health Companion is an AI-powered web application design
 
 Built with a Flask backend, React + Vite frontend, and Firebase integration, this companion prioritizes user privacy, emotional well-being, and personalized support. The project is ideal for those seeking non-clinical, on-demand mental health guidance in a compassionate, tech-driven format.
 
+#HOW TO RUN THIS PROJECT
+
+npm install
+npm run dev
