@@ -16,5 +16,5 @@ Built with a Flask backend, React + Vite frontend, and Firebase integration, thi
 
 #HOW TO RUN THIS PROJECT
 
-npm install
-npm run dev
+# npm install
+# npm run dev
